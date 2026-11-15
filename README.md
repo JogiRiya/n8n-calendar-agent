@@ -24,6 +24,7 @@ Integration: Google Calendar API
 
 Chat Trigger: Receives the user's message.
 
+
 AI Agent (with Memory): Analyzes the intent and extracts the required event details (title, date, time).
 
 Google Calendar Tool: Creates the event directly in the connected Google Calendar.
